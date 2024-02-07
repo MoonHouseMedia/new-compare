@@ -1,0 +1,406 @@
+<style><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>table{width:100%;border-collapse:collapse}td,th{border:5px solid #FCFCFC;padding:15px;text-align:center}.blue-background{background-color:#b1d2ed}.gray-background{background-color:#d6dde2}.checkmark-container{display:flex;justify-content:center;align-items:center}.checkmark{width:20px;height:20px;border-radius:50%;background-color:#fecb00;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700}</style>
+
+&nbsp;
+
+&nbsp;
+<table>
+<thead>
+<tr>
+<th></th>
+<th class="white-background">
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong><span style="color: #1b405d;">Getting Started</span></strong></span></p>
+</th>
+<th class="white-background">
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong><span style="color: #1b405d;">Journal Entry </span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong><span style="color: #1b405d;">Transactions</span></strong></span></p>
+</th>
+<th class="white-background">
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong><span style="color: #1b405d;">Historical Detail </span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong><span style="color: #1b405d;">Transactions</span></strong></span></p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Chart of accounts</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Payment terms</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Price Levels</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Sales People</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="color: #1b405d; font-size: 12pt;">Customers/Vendors</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Units of Measure</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Categories</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Units of measure sets</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Inventory Items</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Service Items</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Projects &amp; Classes</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Shipping Carriers</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Addresses</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Shipping Carriers</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Price Matrix</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Beginning Balance</span></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Open Accounts Payable</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Open Accounts Receivable</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Full History Invoices</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Full History Sales Receipts</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Payment</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Deposits</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Bank Transactions</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Credit Memo</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Cash Receipts</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Purchase Orders</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Billing/Invoice</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Invoice Payments</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Item Receipts</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Sales Orders</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 12pt; color: #1b405d;">Sales Invoices</span></td>
+<td class="blue-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="gray-background"><img src="https://uploads-ssl.webflow.com/63bf2a34fbebc37fcc7445db/63c0461c48c31f53c54cc4a8_xmark.png" alt="check Mark for close action" width="26" height="26" data-w-id="42169e8e-daef-b388-7f0f-3c172883b9dd" data-wf-id="[&quot;88d7eedf-dde6-4c24-3f23-dd2975afb700&quot;,&quot;a1587bdf-057d-2cdf-a39b-e1acb59987b9&quot;,&quot;42169e8e-daef-b388-7f0f-3c172883b9dd&quot;]" /></td>
+<td class="blue-background">
+<div class="checkmark-container">
+<div class="checkmark">✔</div>
+</div></td>
+</tr>
+</tbody>
+</table>
